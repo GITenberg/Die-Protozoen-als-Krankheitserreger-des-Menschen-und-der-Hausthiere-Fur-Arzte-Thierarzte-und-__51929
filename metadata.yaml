@@ -1,5 +1,8 @@
 _repo: Die-Protozoen-als-Krankheitserreger-des-Menschen-und-der-Hausthiere-Fur-Arzte-Thierarzte-und-__51929
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51929-h/images/cover.jpg
 creator:
   author:
     agent_name: Schneidemühl, Georg
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46605'
     url: http://www.gutenberg.org/2009/agents/46605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51929#Die-Protozoen-als-Krankheitserreger-des-Menschen-und-der-Hausthiere-Fur-Arzte-Thierarzte-und-_
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
